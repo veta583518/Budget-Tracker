@@ -20,7 +20,7 @@ Budget Tracker allows end users to track expenses and deposits. It has offline f
 
 You can find the deployed application [here](https://obscure-earth-46934.herokuapp.com/)
 
-![screenshot](public\css\assets\Capture.PNG)
+![screenshot](https://github.com/veta583518/Budget-Tracker/blob/main/public/css/assets/Capture.PNG)
 
 [Back to Contents](#table-of-contents)
 
